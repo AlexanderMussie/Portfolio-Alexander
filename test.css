@@ -1,0 +1,47 @@
+
+h1,h2,h3 {
+    text-align: center;
+    color: white;
+}
+
+p {
+
+    padding-left: 2ch;
+    color: white;
+    margin: 0 0 2em 0;
+    text-align: center;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+img {
+    width: 200px;
+   
+}
+
+
+#one{
+    margin-right: 60px;
+    text-align: center;
+
+}
+
+#two{
+    margin-left: 50px;
+    text-align: center;
+    height: 90 px;
+}
+
+#three{
+    margin-left: 50px;
+    text-align: center;
+}
+     
+body {
+    background-color: rgb(64, 97, 173);
+}
+
+#footer{ color: white;
+    height: 90px;
+
+}
